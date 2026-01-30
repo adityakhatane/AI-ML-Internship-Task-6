@@ -72,6 +72,12 @@ The model was evaluated using:
 
 - **Root Mean Squared Error (RMSE)**  
   Penalizes large errors and reflects prediction accuracy
+  
+  ### Evaluation Report
+
+- MAE: 0.53  
+- RMSE: 0.75
+
 
 ---
 
